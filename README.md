@@ -6,10 +6,14 @@ Dwarf Lab will release an API that will allow people build software that can con
 
 ## Updates
 
+May 12, 2023
+
+Dwarf Labs documentation for [API V1](https://hj433clxpv.feishu.cn/docx/MiRidJmKOobM2SxZRVGcPCVknQg). The Dwarf Lab team is currently making changes to the mobile app and API, so the next version of the API will be greatly changed. Hopefully the API will be released in July.
+
 May 4, 2023
 
 This group is created.
 
 April 30, 2023
 
-During [Dwarf Lab's livestream](https://www.youtube.com/live/5VJQMcWNqiU?feature=share&t=2096) on April 27, 2023, they mention the API will be released after the engineers finish updating the app. They  also posted a link to the [draft specs for the API](https://uploads.gorgias.io/g5KDM28W3V69aByw/DWARF_II_API_V1.0-704a098a-9c08-4add-9c12-120a92f3eec5.pdf?fbclid=IwAR2lQTZ8CkEc1N2g83v-tN6Dc-Q0nDW2DFfM7Ek4GSaJf8pzv1AMpk3E0fk). There is a good amount of options in the API spec. The communication protocol is websockets and the communication data type is json.  
+During [Dwarf Lab's livestream](https://www.youtube.com/live/5VJQMcWNqiU?feature=share&t=2096) on April 27, 2023, they mention the API will be released after the engineers finish updating the app. They  also posted a link to the [draft specs for the API](https://uploads.gorgias.io/g5KDM28W3V69aByw/DWARF_II_API_V1.0-704a098a-9c08-4add-9c12-120a92f3eec5.pdf?fbclid=IwAR2lQTZ8CkEc1N2g83v-tN6Dc-Q0nDW2DFfM7Ek4GSaJf8pzv1AMpk3E0fk). There is a good amount of options in the API spec. The communication protocol is websockets and the communication data type is json.
